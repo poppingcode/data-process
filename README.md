@@ -42,3 +42,5 @@ pip install scikit-surprise
 ### 3).pm25.csv(input file)
 ### 2).pm25_predicted.csv(output file)
 
+### RMSE: 0.0376
+### totally cost 27.054699659347534
