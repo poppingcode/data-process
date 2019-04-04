@@ -11,7 +11,8 @@ pip install time
 pip install csv
 ```
 ### 1).question1.py
-### 2).nyc_taxi_grid_data.csv（Too big to upload，If necessary, leave a message.）
+### 2).nyc_taxi_data.csv（input file）
+### 3).nyc_taxi_grid_data.csv（output file）（Too big to upload，If necessary, leave a message.）
 ####  Its general format is
 ```
 passengers	up_y	up_x	off_y	off_x
@@ -38,4 +39,6 @@ pip install csv
 pip install scikit-surprise
 ```
 ### 1).question2.py
-### 2).nyc_taxi_grid_data.csv
+### 3).pm25.csv(input file)
+### 2).pm25_predicted.csv(output file)
+
