@@ -11,7 +11,19 @@ pip install time
 pip install csv
 ```
 ### 1).question1.py
-### 2).nyc_taxi_grid_data.csv
+### 2).nyc_taxi_grid_data.csv（Too big to upload，If necessary, leave a message.）
+####  Its general format is
+```
+passengers	up_y	up_x	off_y	off_x
+2	0.53887	0.19438	0.59258	0.38546
+2	0.47723	0.1544	0.66402	0.23383
+1	0.54305	0.19637	0.56799	0.1602
+1	0.66716	0.28892	0.86638	0.36459
+1	0.48768	0.1421	0.3928	0.14926
+1	0.54387	0.11972	0.53457	0.15514
+6	0.59364	0.22532	0.54208	0.14972
+.....
+```
 ### totally time cost 26.219933032989502 s
 
 
